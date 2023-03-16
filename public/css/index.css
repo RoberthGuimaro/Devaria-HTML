@@ -3,3 +3,17 @@
 .cover-container figure img {
     width: 100%;
 }
+
+main h3.title {
+    font-size: 1.2em;    
+}
+
+main section abbr {
+
+}
+
+@media screen and (min-width: 992px) {
+    .cover-container {
+        width: 40%;
+    }
+}
